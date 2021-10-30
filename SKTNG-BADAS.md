@@ -35,5 +35,31 @@ INFO : SEMOGA SCRENSHOTNYA MUDAH DIPAHAMI, KARENA SAYA MENJELASKAN DI SCRENSHOT 
 
 
 
+2. D dalam peta memiliki skala 1:5000000, jarak pada peta adalah 20 cm. berapa km kah jarak sebenarnya
+
+FLOWCHART DI FLOWGORITHM 
+
+![Annotation 2021-10-30 021853](https://user-images.githubusercontent.com/92988781/139527885-9f6d03af-accd-497e-922e-2010930e2917.png)
+
+
+INPUT OUTPUT
+
+![Annotation 2021-10-30 022013](https://user-images.githubusercontent.com/92988781/139527894-1ef40b30-2510-4ed7-a5cb-21d8691ca3b6.png)
+
+
+VIA VSCODE
+
+![Annotation 2021-10-30 022935](https://user-images.githubusercontent.com/92988781/139527909-e1e8e35f-887a-4d81-96e0-a9c1d8e2a282.png)
+
+
+INPUT OUTPUT 
+
+![Annotation 2021-10-30 023042](https://user-images.githubusercontent.com/92988781/139527920-0202116f-7146-4de6-a0e1-35a0b2b5c26c.png)
+
+
+- KONSEP LAINNYA ATAU INPUT DARI USER
+
+![Screenshot (51)](https://user-images.githubusercontent.com/92988781/139527966-71ee474a-844a-47b4-abe4-8a1c1ec9de22.png)
+
 
 
