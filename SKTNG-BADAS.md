@@ -63,3 +63,41 @@ INPUT OUTPUT
 
 
 
+3. Jarak antara sketeng dengan badas pada peta skala batang adalah 4 ruas, jika 1 ruas adalah 1km. berapakah jarak sesungguhnya kedua kecamatan trsebut
+
+FLOWCHART DI FLOWGORITHM
+
+![Annotation 2021-10-30 034237](https://user-images.githubusercontent.com/92988781/139530143-8ac65d75-6855-4a3f-b12c-769027c2d949.png)
+
+
+INPUT OUTPUT
+
+![Annotation 2021-10-30 034316](https://user-images.githubusercontent.com/92988781/139530164-1d34e003-c939-468d-a247-a6e71cfc6e4e.png)
+
+
+
+KONSEP LAINNYA ( INPUT DARI USER )
+
+![Annotation 2021-10-30 034506](https://user-images.githubusercontent.com/92988781/139530180-bae2b556-227d-4a92-b99e-eff5bdb439ad.png)
+
+
+VIA VSCODE
+
+![Annotation 2021-10-30 035153](https://user-images.githubusercontent.com/92988781/139530188-a000fedc-b6a4-4b3e-9981-3b8ceb7c670f.png)
+
+
+INPUT OUTPUT
+
+![Annotation 2021-10-30 035210](https://user-images.githubusercontent.com/92988781/139530199-25c034a8-ad0f-479a-8e07-ae8a2c3f46ad.png)
+
+
+KONSEP LAINNYA ( INPUT DARI USER )
+
+![Screenshot (52)](https://user-images.githubusercontent.com/92988781/139530266-673f840c-f033-4e51-a705-49f16d039c0c.png)
+
+
+SELESAI !!!
+
+NOTE : MAAF JIKA MASIH BANYAK KESALAHAN ( MASIH NEWBIE )
+
+TERIMA KASIH !!!
